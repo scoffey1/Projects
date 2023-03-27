@@ -1,4 +1,5 @@
 # Java Programming Projects
+# The Organization of this repository will eventually be broken into  multple branches/topics
 <li>Basic Foundation of Java Programming (From Beginner to more Advanced). Some projects are still under construction
 <li> The goal of this repository is to teach the Java Basics as I learned them.
 <li> All programs were made with eclipse.
