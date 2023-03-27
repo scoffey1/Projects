@@ -5,4 +5,4 @@
 <li> All programs were made with eclipse.
 <li> I used several different libraries for these prjects
 <li> Some code was duplicated from Bro Code(Youtube Channel) and further modified to make it more complex.
-<li> There will be another section for more ccopmlex projects as I continue to learn.
+<li> There will be another section for more advanced projects as I continue to learn.
