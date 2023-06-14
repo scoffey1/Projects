@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
 
 	public static void main(String[] args) {
-		// polymorphism = many shapes/forms
+		//polymorphism = many shapes/forms
 		//dynamic = after compilation (during runtime)
 		
 		Scanner scanner = new Scanner(System.in);
